@@ -54,9 +54,8 @@ Here are some of my favorite tools and technologies:
 
 ## Let's Connect 🔗
 
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)  
-- Twitter: [Follow me](https://twitter.com/your-handle)  
-- Email: bhushan@example.com
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/bhushan-tigdi-425b99314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- Email: bhushantigdi90820@gmail.com
 
 ---
 
